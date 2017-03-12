@@ -3460,10 +3460,6 @@ class subframe extends JInternalFrame
     } // end arrow manager
   }// end panel
 }// end subframe
-<<<<<<< HEAD
-=======
-
-
 /*
 
 possible code to use to fix console not scrolling to bottom with new java 9 code
@@ -3511,4 +3507,3 @@ possible code to use to fix console not scrolling to bottom with new java 9 code
  });// end adjustment class
 
 */
->>>>>>> upstream/master
